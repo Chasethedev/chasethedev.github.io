@@ -1,0 +1,101 @@
+body {
+	background-color: #D6D6D6;
+	font-family: 'Gudea', sans-serif;
+}
+
+/*SECTION 1*/
+
+.row {
+	background-color: #F5F5F5;
+	margin-top: 40px;
+	padding: 110px 0 0 0;
+	box-shadow: 0px 15px 58px #666565;
+}
+
+img {
+	border-radius: 100%;
+	border: 8px solid;
+	border-color: #AF55A2 #3AC063 #00B0BB;
+}
+
+/*NAME AND OCCUPATION*/
+.johndoe {
+	text-align: center;
+	padding-top: 60px;
+}
+
+span {
+	color: #80DDD9;
+	font-size: 22px;
+	line-height: 0;
+	
+
+}
+
+h1 {
+	margin: 0;
+	padding:0;
+	word-spacing: 1.2px;
+	font-size: 48px;
+	font-weight: bold;
+}
+
+/*CONTACT AND ABOUT ME LINKS*/
+
+.contact {
+	margin-top: 100px;
+	text-align: center;
+	color: mintcream;
+	height: 120px;
+	font-size: 18px;
+}
+
+.one {
+	background-color: #AF55A2;	
+}
+
+.two {
+	background-color: #3AC063;	
+}
+
+.three {
+	background-color: #00B0BB;	
+}
+
+/*ICONS*/
+
+.fa {
+	margin-top: 20px;
+	margin-bottom: 8px;
+	font-size: 32px;
+}
+
+
+/*SECTION 2*/
+
+.section2 {
+	text-align: center;
+	margin-bottom: 100px;
+}
+
+.logohere {
+	margin-top: 16px;
+	
+}
+
+.section2 .contact{
+	height: 20px;
+}
+
+.section2 h1 {
+	color: lightgrey;
+	font-size: 50px;
+    letter-spacing: 2px;
+    word-spacing: 10px;
+    font-weight: bold;
+}
+
+/*MEDIA QUERY*/
+
+
+
